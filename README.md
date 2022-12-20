@@ -18,6 +18,12 @@ I'm a full stack developer...
 
 📫 How to reach me...
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=moshiur25524&label=Profile%20views&color=0e75b6&style=flat" alt="moshiur25524" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=moshiur25524" alt="moshiur25524" /></a> </p>
+
+<p align="left"> <a href="https://twitter.com/@rmosiur324md" target="blank"><img src="https://img.shields.io/twitter/follow/@rmosiur324md?logo=twitter&style=for-the-badge" alt="@rmosiur324md" /></a> </p>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/@rmosiur324md" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@rmosiur324md" height="30" width="40" /></a>
