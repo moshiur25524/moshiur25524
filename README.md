@@ -25,6 +25,12 @@ I'm a full stack React developer
 💬 Ask me about any tools of MERN or Project
 
 
+## 🔗 Links
+[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://moshiur-portfolio-60cccc.netlify.app/)
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/md-moshiur-rahman-13b951161/)
+[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Rmosiur324Md)
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moshiur25524&label=Profile%20views&color=0e75b6&style=flat" alt="moshiur25524" /> </p>
 
 <p align="left"> <a href="https://github.com/moshiur25524/MTF-Client"><img src="https://github-profile-trophy.vercel.app/?username=moshiur25524" alt="moshiur25524" /></a> </p>
@@ -48,12 +54,6 @@ I'm a full stack React developer
   <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=moshiur25524&repo=Bookory_Client" />
 </a>
 
-## 🔗 Links
-[![portfolio](https://img.shields.io/badge/my_portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white)](https://katherineoelsner.com/)
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
-[![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
-
-
 
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api?username=moshiur25524&show_icons=true&theme=radical'/>
 <img align='left' width='47%' src='https://github-readme-stats.vercel.app/api/top-langs/?username=moshiur25524&layout=compact'/>
@@ -73,7 +73,7 @@ I'm a full stack React developer
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-
+<!-- 
 Watch my contribution graph being eaten by a Snake! 🐍
 
-![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg)
+![Watch my contribution graph being eaten by a Snake!](https://raw.githubusercontent.com/praveenscience/praveenscience/master/soc/snake.svg) -->
