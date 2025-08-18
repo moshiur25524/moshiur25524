@@ -73,6 +73,10 @@ I'm a full-stack React developer
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
+![PHP](https://img.shields.io/badge/php-%2338B2AC.svg?style=for-the-badge&logo=php&logoColor=white&labelColor=violetk&color=violet)
+![Laravel](https://img.shields.io/badge/laravel-%2338B2AC.svg?style=for-the-badge&logo=laravel&logoColor=white&labelColor=red&color=red)
+![WordPress](https://img.shields.io/badge/wordpress-%2338B2AC.svg?style=for-the-badge&logo=wordpress&logoColor=white&labelColor=black&color=black)
+
 <!-- 
 Watch my contribution graph being eaten by a Snake! 🐍
 
