@@ -12,17 +12,18 @@ I'm a full-stack React developer
   - 🚤 TypeScript 
   - 🍀 React.js 
   - 🌿 Node.js
-  - 🚀 Babel
+  - 🖥️ WordPress
+  - 🧑‍💻 Laravel
  
 👩‍💻 I'm currently working from home of my own
 
-🧠 I'm currently learning redux
+🧠 I'm currently learning Laravel
 
-👯‍♀️ I'm looking to collaborate on a project with a pationate team in react
+👯‍♀️ I'm looking to collaborate on projects with a pationate team in Web Technology
 
-🤔 I'm looking for help to start with realtime project
+🤔 I'm looking for help to start with realtime projects
 
-💬 Ask me about any tools of MERN or Project
+💬 Ask me about any tools of Programming or Project
 
 
 ## 🔗 Links
