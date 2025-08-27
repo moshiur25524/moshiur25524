@@ -47,10 +47,10 @@ I'm a full-stack React developer
 
 
 <a href="https://github.com/moshiur25524/MTF-Client">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moshiur25524&repo=MTF-Client" />
+  <img class="width: 100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moshiur25524&repo=MTF-Client" />
 </a>
 <a href="[https://github.com/anuraghazra/convoychat](https://github.com/moshiur25524/Bookory_Client)">
-  <img align="" src="https://github-readme-stats.vercel.app/api/pin/?username=moshiur25524&repo=Bookory_Client" />
+  <img class="width: 100%" align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=moshiur25524&repo=Bookory_Client" />
 </a>
 
 
